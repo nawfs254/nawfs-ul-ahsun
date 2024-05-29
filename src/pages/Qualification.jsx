@@ -5,7 +5,7 @@ const Qualification = () => {
         <div>
             <Title title="Qualification" subtitle="My Edicational Background"></Title>
 
-            <div>
+            <div className='animate__animated animate__fadeIn'>
 
                 <ol className="relative border-s border-gray-300 dark:border-gray-700">
                     <li className="mb-10 ms-4">

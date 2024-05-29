@@ -6,7 +6,7 @@ import { SiExpress } from "react-icons/si";
 
 const Home = () => {
     return (
-        <div className="w-full md:w-11/12 mx-2 md:mx-auto">
+        <div className="w-full md:w-11/12 mx-2 md:mx-auto animate__animated animate__fadeIn animate__slow">
             <Intro></Intro>
             <div className="slider-div flex overflow-hidden gap-5 my-5">
                 <div className="slider flex gap-5 text-2xl">

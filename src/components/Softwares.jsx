@@ -4,7 +4,7 @@ import { SiAdobexd, SiAdobephotoshop, SiAdobeillustrator, SiAdobepremierepro, Si
 
 const Softwares = () => {
     return (
-        <div>
+        <div className="animate__animated animate__fadeInUp">
             <div className="w-fullmx-auto my-10 mx-auto">
                 <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold ">Designing & Editing</h3>
 

@@ -5,7 +5,7 @@ import { GiClarinet, GiFlute, GiGuitar, GiTrumpet } from "react-icons/gi";
 
 const Music = () => {
     return (
-        <div>
+        <div className="animate__animated animate__fadeInUp">
             <div className="w-full mx-auto my-10">
                 <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold">Instruments</h3>
 

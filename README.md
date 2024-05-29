@@ -6,3 +6,4 @@
 - react-icons
 - react-simple-typewriter
 - react swiper
+- animate.css
