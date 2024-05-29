@@ -5,6 +5,7 @@ import Skills from "../pages/Skills";
 import Webdev from "../components/Webdev";
 import Music from "../components/Music";
 import Softwares from "../components/Softwares";
+import Qualification from "../pages/Qualification";
 
 export const router = createBrowserRouter([
   {
@@ -37,6 +38,10 @@ export const router = createBrowserRouter([
           }
         ]
       },
+      {
+        path: "/qualification",
+        element: <Qualification></Qualification>
+      }
     ],
   },
 ]);
