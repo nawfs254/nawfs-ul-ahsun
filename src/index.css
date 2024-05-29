@@ -4,6 +4,34 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    scroll-behavior: smooth;
+}
+
 .font-glory{
     font-family: "Glory", sans-serif;
+}
+
+.outlet{
+    height: calc(100vh - 96px);
+    width: 100vw;
+}
+
+.slider{
+    animation: slide-loop 100s linear infinite;
+}
+
+@keyframes slide-loop{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .outlet{
+        height: 100%;
+    }
 }

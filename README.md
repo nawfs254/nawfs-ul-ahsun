@@ -5,4 +5,4 @@
 - react-router-dom
 - react-icons
 - react-simple-typewriter
-
+- react swiper
