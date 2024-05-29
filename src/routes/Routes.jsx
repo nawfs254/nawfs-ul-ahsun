@@ -6,6 +6,7 @@ import Webdev from "../components/Webdev";
 import Music from "../components/Music";
 import Softwares from "../components/Softwares";
 import Qualification from "../pages/Qualification";
+import Contact from "../pages/Contact";
 
 export const router = createBrowserRouter([
   {
@@ -41,6 +42,10 @@ export const router = createBrowserRouter([
       {
         path: "/qualification",
         element: <Qualification></Qualification>
+      },
+      {
+        path: "/contact",
+        element: <Contact></Contact>
       }
     ],
   },
