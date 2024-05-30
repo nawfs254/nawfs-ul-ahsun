@@ -2,7 +2,7 @@ import Title from '../components/Title';
 
 const Qualification = () => {
     return (
-        <div>
+        <div className='dark:text-white'>
             <Title title="Qualification" subtitle="My Edicational Background"></Title>
 
             <div className='animate__animated animate__fadeIn'>
