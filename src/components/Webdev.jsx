@@ -7,7 +7,7 @@ const Webdev = () => {
         <div className="my-5">
             <div className="flex flex-col md:flex-row gap-10 uppercase dark:text-white">
 
-                <div className="w-full md:w-1/2 mx-auto animate__animated animate__fadeInLeft">
+                <div className="w-full lg:w-1/2 mx-auto animate__animated animate__fadeInLeft">
                     <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold">Front-end</h3>
 
                     <div className="grid grid-cols-2 text-2xl justify-center items-center">
@@ -40,7 +40,7 @@ const Webdev = () => {
                     </div>
                 </div>
 
-                <div className="w-full md:w-1/2 mx-auto mt-10 md:mt-0  animate__animated animate__fadeInRight">
+                <div className="w-full lg:w-1/2 mx-auto mt-10 md:mt-0  animate__animated animate__fadeInRight">
                     <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold">Back-end</h3>
 
                     <div className="grid grid-cols-2 text-2xl justify-center items-center w-full border-r">

@@ -5,10 +5,10 @@ import { SiAdobexd, SiAdobephotoshop, SiAdobeillustrator, SiAdobepremierepro, Si
 const Softwares = () => {
     return (
         <div className="animate__animated animate__fadeInUp dark:text-white">
-            <div className="w-fullmx-auto my-10 mx-auto">
+            <div className="w-full my-10 mx-auto">
                 <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold ">Designing & Editing</h3>
 
-                <div className="flex flex-wrap md:flex-nowrap text-2xl text-center">
+                <div className="flex flex-wrap lg:flex-nowrap text-2xl text-center">
                     <div className="py-5 px-10 mx-auto flex flex-col items-center gap-2 w-full border-b border-r border-l hover:bg-gray-200 hover:scale-110 transition hover:text-black max-w-64">
                         <SiAdobephotoshop></SiAdobephotoshop>
                         <p className="font-bold">Adobe Photoshop</p> <span className="text-lg font-medium">Basic</span>
@@ -43,7 +43,7 @@ const Softwares = () => {
                 </div>
             </div>
 
-            <div className="w-fullmx-auto my-10 md:w-3/5 mx-auto">
+            <div className="w-fullmx-auto my-10 lg:w-3/5 mx-auto">
                 <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold ">Microsoft Office</h3>
 
                 <div className="flex flex-wrap md:flex-nowrap text-2xl text-center">
@@ -64,7 +64,7 @@ const Softwares = () => {
                 </div>
             </div>
 
-            <div className="w-fullmx-auto my-10 md:w-1/2 mx-auto">
+            <div className="w-fullmx-auto my-10 lg:w-1/2 mx-auto">
                 <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold ">IDE</h3>
 
                 <div className="flex flex-wrap md:flex-nowrap text-2xl text-center">
@@ -80,7 +80,7 @@ const Softwares = () => {
                 </div>
             </div>
 
-            <div className="w-fullmx-auto my-10 md:w-1/2 mx-auto">
+            <div className="w-fullmx-auto my-10 lg:w-1/2 mx-auto">
                 <h3 className="text-3xl md:text-4xl pb-10 text-center font-bold ">Operating System</h3>
 
                 <div className="flex flex-wrap md:flex-nowrap text-2xl text-center">
