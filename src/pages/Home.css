@@ -1,5 +1,7 @@
 .image{
-    background-image: url("../assets/nawfs.jpg");
+    /* background-image: url("../assets/nawfs.jpg"); */
+    background-image: url("../assets/rsz_nawfs.jpg");
+    
     background-position: center top;
     background-size: cover;
     animation: blob 5s ease-in-out infinite;
