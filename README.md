@@ -62,7 +62,7 @@ Feel free to reach out to me at:
 
 ## Directory Structure
 
-    ```sh
+    
     ├── public 
     │   └── ... 
     │   ├── assets 
