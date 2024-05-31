@@ -47,35 +47,7 @@ To run this project locally, follow these steps:
 - Navigate to http://localhost:PORT in your browser to view the site locally.
 - Modify the source code in the src directory to customize the portfolio as per your needs.
 
-## Directory Structure
-
-```sh
-    ├── public <br />
-    │   └── ... <br />
-    ├── src <br />
-    │   ├── assets <br />
-    │   │   └── ... <br />
-    │   ├── components <br />
-    │   │   └── ... <br />
-    │   ├── context <br />
-    │   │   └── ... <br />
-    │   ├── layout <br />
-    │   │   └── ... <br />
-    │   ├── pages <br />
-    │   │   └── ... <br />
-    │   ├── routes <br />
-    │   │   └── ... <br />
-    │   ├── App.js <br />
-    │   ├── index.css <br />
-    │   └── ... <br />
-    ├── index.html <br />
-    ├── .gitignore <br />
-    ├── package.json <br />
-    ├── tailwind.config.js <br />
-    ├── postcss.config.js <br />
-    └── README.md <br />
-
-## Contributing
+## **Contributing**
 Contributions are welcome! If you have suggestions or find any issues, please feel free to create a pull request or open an issue.
 
 ## License
@@ -87,3 +59,32 @@ Feel free to reach out to me at:
 
 - Email: [nawfs.cs254@gmail.com](nawfs.cs254@gmail.com)
 - LinkedIn: [Nawfs Ul Ahsun](https://www.linkedin.com/in/nawfs-ul-ahsun)
+
+## Directory Structure
+
+    ```sh
+        ├── public 
+        │   └── ... 
+        ├── src 
+        │   ├── assets 
+        │   │   └── ... 
+        │   ├── components 
+        │   │   └── ... 
+        │   ├── context 
+        │   │   └── ... 
+        │   ├── layout 
+        │   │   └── ... 
+        │   ├── pages 
+        │   │   └── ... 
+        │   ├── routes 
+        │   │   └── ... 
+        │   ├── App.js 
+        │   ├── index.css 
+        │   └── ... 
+        ├── index.html 
+        ├── .gitignore 
+        ├── package.json 
+        ├── tailwind.config.js 
+        ├── postcss.config.js 
+        └── README.md
+
