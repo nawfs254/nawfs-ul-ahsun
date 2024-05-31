@@ -38,7 +38,7 @@ const Navbar = () => {
 
 
   return (
-    <nav className="w-full md:w-11/12 mx-auto bg-white dark:bg-gray-900 py-3 md:sticky top-0 z-20 dark:text-white">
+    <nav className="w-full lg:w-11/12 mx-auto bg-white dark:bg-gray-900 py-3 md:sticky top-0 z-20 dark:text-white">
       <div className="flex flex-row flex-wrap items-center md:justify-center justify-between lg:justify-between mx-auto p-4">
         <Link to="/"
           className="flex items-center space-x-3 rtl:space-x-reverse"

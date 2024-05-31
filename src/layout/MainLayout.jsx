@@ -7,7 +7,7 @@ const MainLayout = () => {
 
   return (
     <div className="">
-      <div className="dark:bg-[#111827] min-h-screen">
+      <div className="dark:bg-[#111827] min-h-screen bg-white">
         <Navbar></Navbar>
         <div className="md:flex md:items-center md:justify-center">
           <Outlet></Outlet>

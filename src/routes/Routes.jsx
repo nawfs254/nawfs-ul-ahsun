@@ -7,6 +7,7 @@ import Music from "../components/Music";
 import Softwares from "../components/Softwares";
 import Qualification from "../pages/Qualification";
 import Contact from "../pages/Contact";
+import Portfolio from "../pages/Portfolio";
 
 export const router = createBrowserRouter([
   {
@@ -46,6 +47,10 @@ export const router = createBrowserRouter([
       {
         path: "/contact",
         element: <Contact></Contact>
+      },
+      {
+        path: "/portfolio",
+        element: <Portfolio></Portfolio>
       }
     ],
   },

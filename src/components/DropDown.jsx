@@ -19,7 +19,7 @@ const DropDown = () => {
 
 
 
-            <div className={isOpen ? 'fixed top-0 left-0 w-screen h-screen bg-white z-30 flex flex-col items-center justify-center gap-3 text-xl overflow-hidden animate__animated animate__fadeInTopRight' : 'animate__animated animate__fadeOutTopRight hidden'}>
+            <div className={isOpen ? 'fixed top-0 left-0 w-screen h-screen bg-white dark:dark:bg-gray-900 z-30 flex flex-col items-center justify-center gap-3 text-xl overflow-hidden animate__animated animate__fadeInTopRight' : 'animate__animated animate__fadeOutTopRight hidden'}>
                 <div onClick={() => setIsOpen(false)} className={isOpen ? 'fixed top-10 right-10 z-80' : 'hidden'}><RxCross2 size={26} /></div>
 
                 <ul className='space-y-5'>
