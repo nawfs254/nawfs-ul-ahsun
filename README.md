@@ -50,30 +50,30 @@ To run this project locally, follow these steps:
 - Modify the source code in the src directory to customize the portfolio as per your needs.
 
 ## Directory Structure
-├── public 
-│   └── ... 
-├── src 
-│   ├── assets 
-│   │   └── ... 
-│   ├── components 
-│   │   └── ... 
-│   ├── context 
-│   │   └── ... 
-│   ├── layout 
-│   │   └── ... 
-│   ├── pages 
-│   │   └── ... 
-│   ├── routes 
-│   │   └── ... 
-│   ├── App.js 
-│   ├── index.css 
-│   └── ... 
-├── index.html 
-├── .gitignore 
-├── package.json 
-├── tailwind.config.js 
-├── postcss.config.js 
-└── README.md 
+├── public <br />
+│   └── ... <br />
+├── src <br />
+│   ├── assets <br />
+│   │   └── ... <br />
+│   ├── components <br />
+│   │   └── ... <br />
+│   ├── context <br />
+│   │   └── ... <br />
+│   ├── layout <br />
+│   │   └── ... <br />
+│   ├── pages <br />
+│   │   └── ... <br />
+│   ├── routes <br />
+│   │   └── ... <br />
+│   ├── App.js <br />
+│   ├── index.css <br />
+│   └── ... <br />
+├── index.html <br />
+├── .gitignore <br />
+├── package.json <br />
+├── tailwind.config.js <br />
+├── postcss.config.js <br />
+└── README.md <br />
 
 ## Contributing
 Contributions are welcome! If you have suggestions or find any issues, please feel free to create a pull request or open an issue.
